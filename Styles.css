@@ -1,0 +1,37 @@
+/* add your CSS here */
+
+
+
+#img {
+
+  width: 300px;
+}
+
+#card {
+border:2px solid;
+
+}
+
+
+#interesting-fact {
+font-style: italic;
+
+
+}
+
+.bold {
+
+  font-weight: bold;
+}
+
+#facts {
+
+  list-style-type: none;
+}
+
+
+#container {
+
+  border: 2px solid;
+  padding: 1em 2em 2em;
+}
